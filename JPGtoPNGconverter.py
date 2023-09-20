@@ -20,3 +20,4 @@ for filename in os.listdir(image_folder):
 
 #Convert images to png
 #save to new folder
+#first attempt to GitHub integration
